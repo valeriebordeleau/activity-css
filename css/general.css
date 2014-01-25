@@ -1,0 +1,51 @@
+html {
+    font-family:futura, helvetica, sans-serif;
+}
+body {
+    background-color:#FFF;
+}
+h1 {
+    font-family: futura, helvetica, sans-serif;
+    font-weight:bold;
+    font-size: 2.5rem;
+    color:#F60
+}
+
+h2 {font-family: futura, helvetica, sans-serif;
+    font-weight:bold;
+    font-size: 1.5rem;
+}
+
+p,
+li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+h1 + p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight:bold
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-weight: italic;
+}
+
+hr {
+    border: dotted 1px #F60
+}
+
+ul,
+ol {
+    background-color:#FFF
+} 
+
+li {
+    color: #F60;
+}
+
